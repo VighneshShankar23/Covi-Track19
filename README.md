@@ -10,6 +10,6 @@ This project shows us the live count of total number of cases, active cases and 
 - CSS
 - [API-call](https://disease.sh/v3/covid-19/all)
 
-## Made BY :
+## Made by :
 
 [Vighnesh Shankar](https://www.linkedin.com/in/vighnesh-shankar/)
